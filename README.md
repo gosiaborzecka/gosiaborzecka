@@ -1,3 +1,5 @@
+***[Github bug - showing random avatar - not my cover](https://github.com/gosiaborzecka/gosiaborzecka/)***
+
 ![](cover.png)
 
 I'm a software developer that focus on Artificial Intelligence. 
