@@ -3,9 +3,8 @@
 I'm a software developer that focus on Artificial Intelligence. 
 
 You can find more about me on:
-- 🌎   [Blog](https://gosiaborzecka.net)
 - 💼   [LinkedIn](https://www.linkedin.com/in/gosiaborzecka/)
-- 👩‍💻   [Twitter](https://twitter.com/GosiaBorzecka)
+
 
 
 
